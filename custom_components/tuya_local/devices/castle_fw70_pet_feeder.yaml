@@ -23,10 +23,10 @@ primary_entity:
 secondary_entities:
   - entity: sensor
     name: food status
-    class: problem
+    # class: problem
     category: diagnostic
     dps:
-      - id: 105
+      - id: 6
         type: integer
         name: sensor
         optional: true
