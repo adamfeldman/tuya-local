@@ -27,7 +27,7 @@ secondary_entities:
     category: diagnostic
     dps:
       - id: 6
-        type: integer
+        type: string
         name: sensor
         optional: true
         mapping:
